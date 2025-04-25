@@ -1,1 +1,1 @@
-[Click me](https://github.com/Muchawe/github-user-activity/blob/master/main.cpp)
+https://github.com/Muchawe/github-user-activity/blob/master/main.cpp
