@@ -2,7 +2,7 @@
 
 A simple web app to visualize a GitHub user's recent public activity, including commits, pull requests, issues, and more.
 
-[🔗 Live Demo](https://github.com/Muchawe/github-user-activity/blob/master/main.cpp)
+[🔗 Live Demo](https://roadmap.sh/projects/task-tracker)
 
 ## 🚀 Features
 
