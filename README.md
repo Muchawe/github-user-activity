@@ -1,1 +1,1 @@
-[Live Demo](https://github.com/Muchawe/github-user-activity/blob/master/main.cpp)
+[Click me](https://github.com/Muchawe/github-user-activity/blob/master/main.cpp)
